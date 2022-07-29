@@ -2,11 +2,30 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,500&display=swap');
 
 
-body {
-
+body { 
+    display: flex;
+    flex-direction: column;
+background-color: rgba(139, 200, 235, 0.552);
 }
 
-
+.bau {
+    display: block; 
+ margin: auto; 
+ width: 50%;
+    max-width: 250px;
+    filter: brightness(12);
+    background: transparent;
+    
+}
+.un {
+    max-width: 150px;
+    background-color: #8bc8eb8d;
+    border-color: #8bc8eb8d;
+    border-top-left-radius: 40rem;
+    border-bottom-right-radius: 40rem;
+    border-top-right-radius: 10rem;
+    border-bottom-left-radius: 5rem;
+}
 
 h1 {
     font-family: Roboto;
@@ -18,7 +37,7 @@ h2 {
 }
 .Begründung {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: aqua;
+    color: rgba(54, 164, 164, 0.811);
 }
 .list { 
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -29,3 +48,21 @@ p {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: steelblue;
 }
+.auswahl {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: rgb(9, 74, 46);
+}
+.but {
+    
+}
+.like-counter {
+    color: #000;
+    text-decoration: none;
+    margin-right: 5px;
+    &:hover
+      text-decoration: underline;
+  }
+  .liked {
+    font-weight: bold;
+
+  }
