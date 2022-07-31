@@ -34,7 +34,7 @@ h2 {
  margin: auto; 
  width: 50%;
     max-width: 200px;
-    filter: brightness(12);
+    filter: brightness(5);
     background: transparent;
     
 }
