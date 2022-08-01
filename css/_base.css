@@ -1,0 +1,5 @@
+body { 
+    display: flex;
+    flex-direction: column;
+background-color: rgba(139, 200, 235, 0.552);
+}

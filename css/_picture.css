@@ -1,0 +1,24 @@
+.un {
+    max-width: 150px;
+    background-color: #8bc8eb8d;
+    border-color: #8bc8eb8d;
+    border-top-left-radius: 40rem;
+    border-bottom-right-radius: 40rem;
+    border-top-right-radius: 10rem;
+    border-bottom-left-radius: 5rem;
+}
+.bau {
+    display: block; 
+ margin: auto; 
+ width: 50%;
+    max-width: 200px;
+    filter: brightness(5);
+    background: transparent;
+    
+}
+.Voyager {
+    display: flex;
+    margin: left;
+    width: 70%;
+    max-width: 400px;
+}
