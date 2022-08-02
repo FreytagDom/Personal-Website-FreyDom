@@ -1,4 +1,4 @@
-.un {
+.picture__un {
     max-width: 150px;
     background-color: #8bc8eb8d;
     border-color: #8bc8eb8d;
@@ -7,7 +7,7 @@
     border-top-right-radius: 10rem;
     border-bottom-left-radius: 5rem;
 }
-.bau {
+.picture__bau {
     display: block; 
  margin: auto; 
  width: 50%;
@@ -16,7 +16,7 @@
     background: transparent;
     
 }
-.Voyager {
+.picture__Voyager {
     display: flex;
     margin: left;
     width: 70%;
