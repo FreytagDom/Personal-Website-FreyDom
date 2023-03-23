@@ -22,3 +22,8 @@
     width: 70%;
     max-width: 400px;
 }
+.insulinapp {
+    display: flex;
+width: 20vh;
+height: 20vh;
+}
