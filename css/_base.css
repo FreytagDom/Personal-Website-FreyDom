@@ -1,9 +1,7 @@
+
 body { 
+    
     display: flex;
     flex-direction: column;
 background-color: rgba(139, 200, 235, 0.552);
-}
-.slogan {
-    width: 100%;
-    height: 20vh;
 }
