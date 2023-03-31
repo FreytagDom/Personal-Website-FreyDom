@@ -1,5 +1,6 @@
-.picture__un {
-    max-width: 150px;
+.picture__me {
+   width: 150px;
+    height: 150px;
     background-color: #8bc8eb8d;
     border-color: #8bc8eb8d;
     border-top-left-radius: 40rem;
